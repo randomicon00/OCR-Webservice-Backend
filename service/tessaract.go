@@ -1,3 +1,4 @@
+//Instructions: 
 //step1 go get gopkg.in/GeertJohan/go.tesseract.v1
 //step2 sudo apt-get install -t testing libtesseract3 libtesseract-dev
 //step3 install language files e.g. sudo apt-get install -t testing tesseract-ocr-nld
