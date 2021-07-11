@@ -1,3 +1,4 @@
+//This is the OCR processing microservice.
 //Instructions: 
 //step1 go get gopkg.in/GeertJohan/go.tesseract.v1
 //step2 sudo apt-get install -t testing libtesseract3 libtesseract-dev
